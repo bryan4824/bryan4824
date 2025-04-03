@@ -114,6 +114,6 @@ Here are some ideas to get you started:
 <br/>
 
 ------
-Credit: [Bryan de Jesús Santiago Gutierrez](https://github.com/TU_USUARIO)
-Last Edited on: [FECHA]
+Credit: [Bryan de Jesús Santiago Gutierrez](https://github.com/bryan4824)
+Last Edited on: [02/04/2025]
 
