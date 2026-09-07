@@ -1,119 +1,61 @@
-## Hi there 👋
+# Bryan de Jesús Santiago Gutiérrez
 
-<!--
-**bryan4824/bryan4824** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Desarrollador de software.** Construyo cosas que llegan a producción y las sostengo después del release.
 
-Here are some ideas to get you started:
+Hoy trabajo en dos frentes: sistemas empresariales en **.NET** que integran máquinas con sistemas corporativos, y **agentes de IA** con RAG sobre Python. Antes de programar fui técnico en electromecánica industrial, y eso cambia cómo entiendo un requerimiento cuando quien lo pide está en el piso de producción.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### Hola, soy Bryan de Jesús Santiago Gutierrez 👋
+📍 San Juan del Río, Querétaro, México
 
-<img src="https://profile-counter.glitch.me/TU_USUARIO/count.svg">
+---
 
-[![GitHub followers](https://img.shields.io/github/followers/TU_USUARIO.svg?style=social&label=Followers)](https://github.com/TU_USUARIO?tab=followers)
+## Lo que he construido
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=¡Hola!+Soy+Bryan!;Soy+Desarrollador+Back-End...;Especializado+en+Java+y+Spring+Boot;Apasionado+por+la+Ciberseguridad+y+SCRUM)](https://git.io/typing-svg)
+**[Agente de IA sobre documentos y datos](https://github.com/bryan4824/Agente_IA_documentos)** · `Python` `LangChain` `FAISS` `FastAPI` `Docker`
 
-<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
+Un agente que decide entre dos caminos: búsqueda semántica para texto, pandas para datos tabulares. Los CSV nunca entran al índice vectorial — si lo hicieran, el modelo estimaría los totales en vez de calcularlos. Con pruebas que no consumen API, Docker y despliegue en Oracle Cloud.
 
-<h3> Algunos datos sobre mí: </h3>
+**[Mi Ruta SJR](https://github.com/bryan4824/mi_ruta_sjr_v1)** · `Node.js` `Express` `MySQL` `MongoDB` `FastAPI`
 
-- 🔭 Actualmente estoy desarrollando proyectos en Java y Spring Boot
-- 🌱 Me estoy capacitando en Alura Latam Oracle Next Education para especializarme en desarrollo Back-End
-- 📖 También estudio ciberseguridad en Cisco.com y SCRUM en Scrum.org
-- 👯 Busco colaborar en proyectos de desarrollo Back-End y ciberseguridad
-- 💬 Pregúntame sobre Java, Spring Boot, bases de datos y metodologías ágiles
-- 📫 Conéctate conmigo en mis redes sociales
+Aplicación web de transporte público. Coordiné el proyecto de la planeación a la entrega: back-end, autenticación con JWT, base de datos y una API aparte para el módulo de ventas.
 
-<p>Conéctate conmigo en:
-<br>
-<a target="_blank" href="https://www.linkedin.com/in/TU_LINKEDIN/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-&emsp;
-<a target="_blank" href="mailto:TUCORREO@gmail.com">
-<img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-&emsp;
-<a target="_blank" href="https://twitter.com/TU_TWITTER"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
-</p>
+**[ventas_API](https://github.com/bryan4824/ventas_API)** · `Python`
 
-### 🔥 Estadísticas de GitHub
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&theme=gruvbox" alt="stats"  /></p>
+API REST con endpoints CRUD e intercambio JSON.
 
-<hr>
+**[BankBralex](https://github.com/bryan4824/BankBralex)** · `C++`
 
-## 🛠️ Mis Habilidades
+Simulador bancario de escritorio: débito, crédito, ahorro e historial de transacciones, con diseño modular y orientado a objetos.
 
-### 👉 Lenguajes de Programación
-<p align="left"> 
-  <a href="https://www.java.com/en/">
-    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  </a>
-  &emsp;
-  <a href="https://www.python.org/">
-    <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
-  </a>
-  &emsp;
-  <a href="https://cplusplus.com/">
-    <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  </a>
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  </a>
-</p>
+> Mi proyecto más grande —el middleware que integra los monitores de una planta de manufactura con su sistema corporativo de planeación— es privado por ser de la empresa. Con gusto lo explico en una conversación.
 
-### 👉 Frameworks y Herramientas
-<p align="left"> 
-  &emsp;
-  <a href="https://spring.io/">
-    <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  </a>
-  &emsp;
-  <a href="https://git-scm.com/">
-    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  </a>
-  &emsp;
-  <a href="https://github.com/">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  &emsp;
-  <a href="https://ubuntu.com/">
-    <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-  </a>
-  &emsp;
-  <a href="https://www.kali.org/">
-    <img alt="Kali Linux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-  </a>
-  &emsp;
-  <a href="https://code.visualstudio.com/">
-    <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  </a>
-  &emsp;
-  <a href="https://www.jetbrains.com/idea/">
-    <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
-  </a>
-  &emsp;
-  <a href="https://www.mysql.com/">
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  </a>
-  &emsp;
-  <a href="https://www.virtualbox.org/">
-    <img alt="VirtualBox" src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
-  </a>
-</p>
+---
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=gruvbox" /></p>
+## Stack
 
-<br/>
+**Lenguajes** · C# · Python · JavaScript · SQL · C++
 
-------
-Credit: [Bryan de Jesús Santiago Gutierrez](https://github.com/bryan4824)
-Last Edited on: [02/04/2025]
+**Back-end** · ASP.NET MVC · Web API · Entity Framework · Node.js · Express · FastAPI
 
+**IA** · LangChain · RAG con FAISS · agentes con herramientas · integración de LLM por API
+
+**Datos** · SQL Server · MySQL · MongoDB · pandas
+
+**Front-end** · JavaScript · jQuery · AJAX · HTML · CSS · Bootstrap
+
+**Operación** · Docker · Git · GitHub Actions · IIS · Oracle Cloud
+
+---
+
+## Formación
+
+- **Ingeniería en Tecnologías de la Información e Innovación Digital** — UTSJR *(en curso)*
+- **TSU en Desarrollo de Software Multiplataforma** — UTSJR *(2024–2026)*
+- **Técnico en Electromecánica Industrial** — CONALEP San Juan del Río *(titulado, con cédula)*
+- Certificaciones: Alura Latam *(Java: creación y consumo de APIs · Git y GitHub)* · Cisco *(Python Fundamentals · Linux Unhatched)* · Santander *(Metodologías Ágiles)*
+
+---
+
+## Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-santiago-gutierrez/)
+[![Gmail](https://img.shields.io/badge/santiagobryan770@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:santiagobryan770@gmail.com)
